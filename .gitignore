@@ -1,0 +1,16 @@
+Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+*.csv
+
+# Ignore Power BI files
+*.pbix
+
+# Ignore PowerPoint and Word reports
+*.pptx
+*.docx
+
+# Ignore Python cache and temp files
+_pycache_/
+*.pyc
